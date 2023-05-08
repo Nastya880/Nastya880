@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nastya</a></h1>
 
-## About me:
+### About me:
 
 I am a beginner Frontend developer, and I'm currently open to job opportunities!
 - 👩‍🎓 I study at school 21 in Moscow campus. I'm alumni in ecole 42
