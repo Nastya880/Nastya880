@@ -2,11 +2,12 @@
 
 ### About me:
 
-I am a beginner Frontend developer, and I'm currently open to job opportunities!
+I am a QA and I'm currently open to job opportunities!
 - 👩‍🎓 I study at school 21 in Moscow campus. I'm alumni in ecole 42
-- 👩‍🎓 I'm a graduate of the Moscow Institute of Electronic Technology (bachelor's graduate). I'm studying in the magistracy.
-- 👩‍💼 I have 1 year experience as a **QA**
+- 👩‍🎓 I'm a graduate of the Moscow Institute of Electronic Technology (bachelor's graduate). I'm alumni in the magistracy
+- 👩‍💼 I have 3 years experience as a **QA**
 - 👩‍💼 I have experience as **C++ developer**
+- 👩‍💼 I have experience as **Frontend developer**
 ---
 
 + 💻 I like to write code
